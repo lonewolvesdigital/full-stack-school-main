@@ -1,4 +1,4 @@
-# David's Academy International School
+# David&apos;s Academy International School
 
 
 ## Getting Started
