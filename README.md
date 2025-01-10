@@ -23,5 +23,5 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 To learn more about Lone Wolves Digital, take a look at the following resources:
 
-- [Lama Dev Youtube Channel](https:www.lonewolvesdigital.com) 
+- [Lone Wolves Digital](https:www.lonewolvesdigital.com) 
 - [Next.js](https://nextjs.org/learn)
