@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "David's Academy International School",
-  description: "David's Academy International School Management System",
+  description: "David&apos;s Academy International School Management System",
 };
 
 export default function RootLayout({
