@@ -1,4 +1,4 @@
-# David&apos;s Academy International School
+# Windward School
 
 
 ## Getting Started

@@ -8,8 +8,8 @@ import "react-toastify/dist/ReactToastify.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "David's Academy International School",
-  description: "David&apos;s Academy International School Management System",
+  title: "Windward School" 
+  description: "Windward School Management System",
 };
 
 export default function RootLayout({
