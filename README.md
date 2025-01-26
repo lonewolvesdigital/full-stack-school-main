@@ -1,4 +1,4 @@
-# Windward School
+# Dwight School APP
 
 
 ## Getting Started
